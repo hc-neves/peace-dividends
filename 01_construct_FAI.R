@@ -3,7 +3,7 @@
 # Constructs the composite Food Access Index (FAI) from four FAO pillars.
 # Output: 01_data/panel_85countries_2015_2024.csv
 #
-# Authors: Neves, H.C. et al. (2026)
+# Authors: Neves, H.C. (2026)
 # Repository: https://github.com/hc-neves/peace-dividends
 # R version: 4.4.1
 # =============================================================================
