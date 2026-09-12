@@ -8,7 +8,7 @@
 # variation in programme quality, or institutional absorption constraints.
 # Results should be interpreted as indicative of order of magnitude only.
 #
-# Authors: Neves, H.C. et al. (2026)
+# Authors: Neves, H.C. (2026)
 # =============================================================================
 
 library(dplyr)
