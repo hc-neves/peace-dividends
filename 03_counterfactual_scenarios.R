@@ -3,7 +3,7 @@
 # Produces Table 1 (harmonized series + Scenario A) and
 #           Table 2 (all four reallocation scenarios).
 #
-# Authors: Neves, H.C. et al. (2026)
+# Authors: Neves, H.C. (2026)
 # =============================================================================
 
 library(dplyr)
