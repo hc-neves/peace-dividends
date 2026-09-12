@@ -6,7 +6,7 @@
 #   (3) IV / 2SLS [sensitivity]
 # Also runs robustness checks reported in Appendix A.3.
 #
-# Authors: Neves, H.C. et al. (2026)
+# Authors: Neves, H.C. (2026)
 # =============================================================================
 
 library(plm)
